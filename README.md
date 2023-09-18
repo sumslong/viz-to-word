@@ -1,12 +1,11 @@
 # Bureau of Labor Statistics Project
-Updated by Summer Long, 08/21/2023
-
-[[_TOC_]]
+Updated by Summer Long, 09/18/2023
 
 ## Project Overview
 This program is intended to aid analysts in the identification of topics for internal releases. It does so in two ways:
 - Generates labor productivity charts with user-inputted parameters and sorts them based on a user-selected criteria
 - Generates tables with user-inputted parameters
+
 The data is accessed through a Microsoft SQL Server. 
  
 ## How it Works
